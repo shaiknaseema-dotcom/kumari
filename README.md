@@ -1,2 +1,1 @@
-# kumari
-kumari
+Source for the Netflix OSS Hub : http://netflix.github.io/
